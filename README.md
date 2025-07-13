@@ -24,7 +24,8 @@ staring page
 blogs posts or feed 
 1)<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2a54c8c6-d6fd-4441-aec7-18fb2a5dd151" />
 2)
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bb356ffa-3cdc-44e0-9364-54ac0fe9e8a9" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5711bad7-2336-4844-9631-8386ab65e0d2" />
+
 
 
 
